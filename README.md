@@ -1,2 +1,0 @@
-# PenghitungUmurApp
- Latihan2
